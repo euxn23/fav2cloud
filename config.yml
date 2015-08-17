@@ -1,0 +1,23 @@
+:fetch:
+:use:
+  :dropbox:   true
+  :evernote:  false
+  :pocket:    false
+
+
+# API keys
+:twitter:
+  :consumer_key:        '' 
+  :consumer_secret:     '' 
+  :access_token:        '' 
+  :access_token_secret: '' 
+
+:instagram:
+  :access_token: ''
+
+:dropbox:
+  :access_token:  ''
+
+:local:
+  :path:  './imgs'
+
